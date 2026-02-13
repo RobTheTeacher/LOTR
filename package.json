@@ -1,0 +1,19 @@
+{
+  "name": "lotr",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Middle Earth's history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
+  },
+  "keywords": [
+    "elves"
+  ],
+  "author": "Tolkien",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
